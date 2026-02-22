@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "FAKEit（feat. Laco）",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-02-22T15:36:50.564017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FAKEit (feat. Laco)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/01_FAKEit_(feat._Laco)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAKEit",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": false,
+      "path": "select/pl_01_FAKEit_SawanoHiroyuki[nZk]_Laco.txt"
+    }
+  ]
+}
